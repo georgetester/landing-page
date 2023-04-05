@@ -209,6 +209,19 @@
 
 /* FOOTER SECTION STYLING */
 
+footer {
+    height: 80px;
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+footer p {
+    color: white;
+}
+
+
 
 
 
